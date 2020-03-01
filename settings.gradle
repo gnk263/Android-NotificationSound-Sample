@@ -1,0 +1,2 @@
+rootProject.name='NotificationSoundSample'
+include ':app'
